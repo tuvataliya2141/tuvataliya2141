@@ -1,7 +1,7 @@
 Hello Sir / Ma'am,
 
 
-I'm Tarun Vataliya. I am a professional Website Developer & Designer. I love my work & I am passionate about it. I have experience of 6 years in Website Developing and Designing. I am an expert in all the below Skills.
+I'm Brijesh Vataliya. I am a professional Website Developer & Designer. I love my work & I am passionate about it. I have experience of 6 years in Website Developing and Designing. I am an expert in all the below Skills.
 
 
 Backend:-
